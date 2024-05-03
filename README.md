@@ -18,4 +18,12 @@
 
 #### 04-30-2024
 
-- Starting Python courses 
+ - Starting Python courses 
+
+#### 05-01-2024
+
+ - Finished first module in fcc for Pythton
+
+#### 05-02-2024
+
+ - Beginning to create Kirby mock game
